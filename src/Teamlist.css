@@ -1,0 +1,79 @@
+.teamlist {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #363b81;
+  color: white;
+  font-size: 16px;
+  border-radius: 12px;
+  padding: 0px 20px 20px 20px;
+}
+
+.teamlist__container {
+  background-color: #b4b6d0;
+  border-radius: 12px;
+  padding: 12px;
+  height: 55vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+h2 {
+  font-size: 24px;
+  padding: 12px 0px 12px 12px;
+  color: #f0f0f6;
+  font-weight: 800;
+}
+
+.teamlist__tableRow {
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #363b81;
+  align-items: center;
+}
+
+.teamlist__item {
+  margin-top: 6px;
+}
+
+h3 {
+  font-size: 18px;
+  color: #363b81;
+  font-weight: 500;
+}
+
+h4 {
+  font-size: 24px;
+  color: #363b81;
+  font-weight: 800;
+}
+
+.teamlist_tableColumnEncounter {
+  width: 280px;
+}
+
+.teamlist_tableColumnPlayers {
+  width: 100px;
+  text-align: center;
+}
+
+.teamlist_tableColumnJoin {
+  width: 100px;
+  text-align: right;
+}
+
+.teamlist__buttonJoin {
+  width: 83px;
+  height: 38px;
+  background-color: #fbd743;
+  color: #363b81;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  border: 0px;
+  border-radius: 12px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
