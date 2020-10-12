@@ -5,3 +5,5 @@
 
 A web app that makes it easier for people to team up with other players around the world to play the game together.
 Everything works real-time and doesn't require any page refreshing.
+
+Visit at: https://goteamfinder.com
